@@ -1,7 +1,7 @@
 # Anomaly Detection
 Download dataset here: https://www.kaggle.com/datasets/karthiknm1/ucsd-anomaly-detection-dataset
 
-Tools used: Python, PyTorch, OpenCV, NumPy, Matplotlib
+Tools and libraries used: Python, PyTorch, OpenCV, NumPy, Matplotlib
 
 Deep Learning Architecture used: U-Net 
 
